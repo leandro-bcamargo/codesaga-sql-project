@@ -1,0 +1,1 @@
+SELECT MAX(l.TOTAL) AS 'Max Location Total' FROM LOCATIONS AS l;
